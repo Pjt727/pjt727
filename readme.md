@@ -1,7 +1,7 @@
 I'm a software engineer passionate about lots of things within the space:
-I love lots of different programming tools check out my [dot files](https://github.com/Pjt727/dotfiles);
-I've tried many different programming langauges, but currently choose to do most of my work in Python or Rust;
-outside of programming I'm always down for some ultimate frisbee, badminton, or pickleball.
+I've tried lots of different programming tools you can check out in my [dot files](https://github.com/Pjt727/dotfiles);
+I've also tried tried many different programming langauges, but currently choose to do most work in **Python** or **Rust**;
+outside of programming I love to play ultimate frisbee and badminton.
 
 # Socials:
 
