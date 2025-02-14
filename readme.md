@@ -1,7 +1,21 @@
 I'm a software engineer passionate about lots of things within the space:
-I've tried lots of different programming tools you can check out in my [dot files](https://github.com/Pjt727/dotfiles);
-I've also tried tried many different programming langauges, but currently choose to do most work in **Python** or **Rust**;
-outside of programming I love to play ultimate frisbee and badminton.
+I've had fun with lots of different programming tools you can check out in my [dot files](https://github.com/Pjt727/dotfiles);
+I've also tried various programming languages, but currently choose to do most work in **Python** or **Rust**.
+Outside of programming I love to play Ultimate Frisbee and badminton.
+
+# Projects
+## [Classy](https://github.com/Pjt727/classy)
+College/ University Class API + Scraper. 
+
+## [Codenames Web Server](https://github.com/Pjt727/theater-codenames)
+A version of Codenames to make it easier to play with custom words.
+
+## [Bluetooth Low Energy (BLE) Research Proof of Concept](https://github.com/Oliver-Shariff/BLE_Sense)
+Extension of BLE tracking research which demonstrates the ability of device tracking and 
+    malicious packet analysis.
+
+## [HTML to FastHTML DSL](https://github.com/Pjt727/Html2FastHtml)
+Small project to convert HTML to formatted FastHTML python code.
 
 # Socials:
 
