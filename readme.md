@@ -1,7 +1,7 @@
-I'm a software engineer passionate about lots of things within the space.
-I've had fun with lots of different programming tools you can check out in my [dot files](https://github.com/Pjt727/dotfiles).
-I've tried various programming languages, but currently choose to do most work in **Python**, **Rust**, or **Golang**.
-Outside of coding I love to play Ultimate Frisbee and badminton.
+I'm a software engineer with a bachelor's in Computer Science.
+I've had fun with lots of different programming tools ([dot files](https://github.com/Pjt727/dotfiles)).
+I've tried various programming languages, but, currently, I choose to make most of my projects in **Python**, **Rust**, or **Golang**.
+Outside of coding I love to pick up games of Ultimate Frisbee and badminton.
 
 # Projects
 ## [Classy](https://github.com/Pjt727/classy)
