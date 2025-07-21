@@ -1,5 +1,4 @@
 I'm a software engineer with a bachelor's in Computer Science.
-I've had fun with lots of different programming tools ([dot files](https://github.com/Pjt727/dotfiles)).
 I've tried various programming languages, but, currently, I choose to make most of my projects in **Python**, **Rust**, or **Golang**.
 Outside of coding I love pick up games of Ultimate Frisbee and badminton.
 
