@@ -1,6 +1,6 @@
 I'm a software engineer with a bachelor's in Computer Science.
 I've tried various programming languages, but, currently, I choose to make most of my projects in **Python**, **Rust**, or **Golang**.
-Outside of coding I love pick up games of Ultimate Frisbee and badminton.
+Outside of coding I love pick up games of Ultimate Frisbee.
 
 # Projects
 ## [Classy](https://github.com/Pjt727/classy)
