@@ -5,8 +5,8 @@ Outside of coding I love pick up games of Ultimate Frisbee.
 ## [Classy](https://github.com/Pjt727/classy)
 College/ University Class API + Scraper. 
 
-## [Codenames Web Server](https://github.com/Pjt727/theater-codenames)
-A version of Codenames to make it easier to play with custom words.
+## [Codenames Web App](https://github.com/Pjt727/theater-codenames)
+The board game Codenames with a live, multiplayer web UI.
 
 ## [Bluetooth Low Energy (BLE) Research Proof of Concept](https://github.com/Oliver-Shariff/BLE_Sense)
 Extension of BLE tracking research which demonstrates the ability of device tracking and 
