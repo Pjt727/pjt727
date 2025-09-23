@@ -1,5 +1,4 @@
-I'm a software engineer with a bachelor's in Computer Science.
-I've tried various programming languages, but, currently, I choose to make most of my projects in **Python**, **Rust**, or **Golang**.
+I'm a software engineer with a bachelor's in Computer Science. I like working on interesting problems. When I have the choice, I currently use **Python**, **Rust**, or **Golang** for my projects.
 Outside of coding I love pick up games of Ultimate Frisbee.
 
 # Projects
